@@ -1,3 +1,13 @@
+#Exchanges App
+Exchanges is a system where people can exchange with other people items they don't need
+and receive in return another product that they want or need.
+
+People will be able to post an item and describe it and tell about his status and his worth and others will be able to offer them anything
+that they would like.
+
+## client side: React.js 
+ server side: firebase
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
