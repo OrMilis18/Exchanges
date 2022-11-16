@@ -1,12 +1,31 @@
 # Exchanges App
-Exchanges is a system where people can exchange with other people items they don't need
+Exchanges is a responsive website where people can exchange with other people items they don't need
 and receive in return another product that they want or need.
 
 People will be able to post an item and describe it and tell about his status and his worth and others will be able to offer them anything
 that they would like.
 
-* client side: React.js 
-### server side: firebase
+* client side- React.js 
+* server side- firebase
+
+### login
+<img width="171" alt="image" src="https://user-images.githubusercontent.com/93192321/202075880-f6cddf71-73ac-4ee3-a767-e5d35109bc59.png">
+
+### home page
+<img width="172" alt="image" src="https://user-images.githubusercontent.com/93192321/202076068-a86b2990-529e-421f-a6b0-ee586136e689.png">
+<img width="914" alt="image" src="https://user-images.githubusercontent.com/93192321/202076175-9d3fce1d-b692-4bf6-b980-b7312ace4351.png">
+
+### add new post
+<img width="414" alt="image" src="https://user-images.githubusercontent.com/93192321/202076506-47da726b-cf14-4368-9390-5ad8f599e439.png">
+
+### offer a return
+<img width="526" alt="image" src="https://user-images.githubusercontent.com/93192321/202077143-a42d8f96-6d80-47c9-b030-28694b6f5555.png">
+
+### my offers
+
+<img width="538" alt="image" src="https://user-images.githubusercontent.com/93192321/202077330-4dacec20-c0bf-4b65-883f-5ceb69575fad.png">
+<img width="512" alt="image" src="https://user-images.githubusercontent.com/93192321/202077367-d3a1d1f5-23e3-4119-b35f-8798dd09ed09.png">
+
 
 # Getting Started with Create React App
 
