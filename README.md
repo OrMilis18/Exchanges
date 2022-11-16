@@ -1,8 +1,8 @@
 # Exchanges App
-Exchanges is a responsive website where people can exchange with other people items they don't need
+Exchanges is a responsive website where people can exchange with other people items they don't need,
 and receive in return another product that they want or need.
 
-People will be able to post an item and describe it and tell about his status and his worth and others will be able to offer them anything
+People will be able to post an item, describe it, to tell about his status and his worth, and others will be able to offer them anything
 that they would like.
 
 * client side- React.js 
