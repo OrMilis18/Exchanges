@@ -14,7 +14,8 @@ that they would like.
 ### home page
 <img width="172" alt="image" src="https://user-images.githubusercontent.com/93192321/202076068-a86b2990-529e-421f-a6b0-ee586136e689.png">
 <img width="916" alt="image" src="https://user-images.githubusercontent.com/93192321/202077636-16adfe1b-a792-494f-92bb-31d267f0a930.png">
-### add new post
+
+### add a new post
 <img width="414" alt="image" src="https://user-images.githubusercontent.com/93192321/202076506-47da726b-cf14-4368-9390-5ad8f599e439.png">
 
 ### offer a return
